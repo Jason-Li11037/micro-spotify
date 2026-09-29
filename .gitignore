@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.vscode/
+
+# Private notes (kept in a separate private repo)
+knowledge/
